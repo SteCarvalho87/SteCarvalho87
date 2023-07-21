@@ -1,5 +1,5 @@
 ## Oi, eu me chamo Stephanie
-###Bem-vindo(a) ao meu perfil! 😁
+### Bem-vindo(a) ao meu perfil! 😁
 
 <div style="display: inline_block"><br>
 💻 - Dando os primeiros passos como Dev <br>
