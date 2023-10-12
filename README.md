@@ -9,17 +9,14 @@
 
 <div>
    <a href="https://github.com/SteCarvalho87">
-   
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SteCarvalho87&theme=transparent&bg_color=000&border_color=e5097f&show_icons=true&icon_color=e5097f&title_color=	#00FFFF&text_color=FFF"/>
-
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SteCarvalho87&bg_color=000&border_color=e5097f&title_color=	#00FFFF&text_color=FFF"/>
-
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SteCarvalho87&theme=transparent&bg_color=000&border_color=e5097f&show_icons=true&icon_color=e5097f&title_color=00FFFF&text_color=FFF"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SteCarvalho87&bg_color=000&border_color=E5097F&title_color=00FFFF&text_color=FFF"/>
 </div>
 
 ### Habilidades:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
