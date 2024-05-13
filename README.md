@@ -2,7 +2,7 @@
 ### Bem-vindo(a) ao meu perfil! 😁
 
 <div style="display: inline_block"><br>
-💻 - Desenvolvedora Front-end <br>
+💻 - Desenvolvedora Back-End <br>
 📚 - Estudante de Engenharia de Software na Unicesumar <br>
 🎮  - Gamer e crocheteira nas horas vagas
 </div><br>
