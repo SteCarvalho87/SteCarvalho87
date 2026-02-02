@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu me chamo Stephanie </h1>
 <h3 align="center">Bem-vindo(a) ao meu perfil! 😁</h3>
 
-- 💻 I'm a **backend developer**
+- 💻 I'm a **backend developer** and a **Pega Developer** in Capgemini
 
 - 🖌️ Also, I have knowledge on **FrontEnd**
 
@@ -9,9 +9,9 @@
 
 - 🎓 Studying **Software Engeneering**
 
-- 🚀 Looking for an **internship opportunity.**
+- 🚀 Looking for an **Java Developer opportunity.**
 
-- 🎮 Gamer and crocheter in my spare time
+- 🎮 Gamer and Bellydancer in my spare time
 
 <br>
 
