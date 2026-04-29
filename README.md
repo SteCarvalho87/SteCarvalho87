@@ -13,18 +13,13 @@
 
 - 🎮 Gamer and Bellydancer in my spare time
 
+<P>Desenvolvedora Java com foco em microsserviços e Spring Framework, cursando Engenharia de Software com formação prevista para esse ano.</P>
+<P>Atualmente trabalho no desenvolvimento de funcionalidades complexas para gestão de casos e automação de processos com a Pega Plataform, seguindo os princípios do back-end tradicional: modularização, reuso e organização por camadas de responsabilidade. busco participar ativamente no ciclo de desenvolvimento ágil(refinamento técnico, estimativas, sprints e entregas contínuas), aprimorando a disciplina de versionamento, testes e documentação. Em paralelo, me especializo em Java e Spring Boot, além de competências em bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL(MongoDB). Busco sempre aplicar os princípios SOLID para garantir um código limpo, modular e fácil de manter, bem como o uso de práticas de testes unitários e funcionais para assegurar a qualidade contínua das entregas.</P>
 
-### Languages:
+<P>Tenho muita facilidade prara aprender novas tecnologias tendo evoluído no meu cargo atual para desenvolvedora em manos de 1 mês. Além disso, busco sempre colaborar eficazmente com a equipe, sempre em busca das melhores entregas e soluções.</P>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="30"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="30"/>
-</p>
-
-
-### Tools:
-<p>
-  <img src="https://devicons.railway.app/i/github-light.svg" width="40" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="30"/>
-</p>
+<P>Anteriormente à minha atuação como desenvolvedora tive uma experiência de 10 anos em gestão escolar onde aprendi a lidar com pessoas diferentes, a mediar conflitos e a fazer processos funcionarem no dia a dia, competências que garantem maturidade em times ágeis.</P>
+</br>
 
  ### My Contacts:
  
