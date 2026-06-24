@@ -13,12 +13,12 @@
 
 - 🎮 Gamer and Bellydancer in my spare time
 
-<P>Desenvolvedora Java com foco em microsserviços e Spring Framework, cursando Engenharia de Software com formação prevista para esse ano.</P>
-<P>Atualmente trabalho no desenvolvimento de funcionalidades complexas para gestão de casos e automação de processos com a Pega Plataform, seguindo os princípios do back-end tradicional: modularização, reuso e organização por camadas de responsabilidade. busco participar ativamente no ciclo de desenvolvimento ágil(refinamento técnico, estimativas, sprints e entregas contínuas), aprimorando a disciplina de versionamento, testes e documentação. Em paralelo, me especializo em Java e Spring Boot, além de competências em bancos de dados relacionais (PostgreSQL, MySQL) e NoSQL(MongoDB). Busco sempre aplicar os princípios SOLID para garantir um código limpo, modular e fácil de manter, bem como o uso de práticas de testes unitários e funcionais para assegurar a qualidade contínua das entregas.</P>
+<p>Sou Desenvolvedora Back-end com foco em Java e Spring Boot, atuando atualmente na Capgemini no desenvolvimento de soluções corporativas para automação de processos e gestão de casos.</p>
+<p>Tenho experiência com desenvolvimento orientado a objetos, APIs REST, modelagem de dados, bancos relacionais e NoSQL, além de atuar em ambientes ágeis utilizando Scrum e Kanban.</p>
+<p>Paralelamente ao trabalho, aprofundo meus estudos em Java, Spring Boot, microsserviços, testes automatizados e arquitetura de software.</p>
+<p>Minha trajetória profissional inclui mais de 10 anos em funções de gestão e atendimento, experiência que fortaleceu habilidades como comunicação, liderança, organização e resolução de problemas.</p>
+<p>Atualmente busco continuar evoluindo como Desenvolvedora Java Back-end, contribuindo para soluções escaláveis, bem estruturadas e orientadas à qualidade. </p>
 
-<P>Tenho muita facilidade prara aprender novas tecnologias tendo evoluído no meu cargo atual para desenvolvedora em manos de 1 mês. Além disso, busco sempre colaborar eficazmente com a equipe, sempre em busca das melhores entregas e soluções.</P>
-
-<P>Anteriormente à minha atuação como desenvolvedora tive uma experiência de 10 anos em gestão escolar onde aprendi a lidar com pessoas diferentes, a mediar conflitos e a fazer processos funcionarem no dia a dia, competências que garantem maturidade em times ágeis.</P>
 </br>
 
  ### My Contacts:
