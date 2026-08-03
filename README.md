@@ -30,9 +30,3 @@
 </div>
 <br>
 <br>
-
-<div>
-   <a href="https://github.com/SteCarvalho87">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SteCarvalho87&theme=transparent&bg_color=000&border_color=e5097f&show_icons=true&icon_color=e5097f&title_color=00FFFF&text_color=FFF"/>
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SteCarvalho87&bg_color=000&border_color=E5097F&title_color=00FFFF&text_color=FFF"/>
-</div>
