@@ -1,32 +1,50 @@
-<h1 align="center">Oi, eu me chamo Stephanie </h1>
-<h3 align="center">Bem-vindo(a) ao meu perfil! 😁</h3>
+<h1 align="center">Olá, eu sou a Stephanie 👋</h1>
 
-- 💻 I'm a **backend developer** and a **Pega Developer** in Capgemini
+<h3 align="center">Desenvolvedora de Software | Java Backend</h3>
 
-- 🖌️ Also, I have knowledge on **FrontEnd**
+Sou desenvolvedora de software na **Capgemini**, com experiência profissional em desenvolvimento e manutenção de soluções corporativas, regras de negócio, integrações via APIs REST e trabalho em equipes ágeis.
 
-- 📚 I’m currently learning **Java**
+Atualmente direciono minha carreira para **desenvolvimento Java Backend**, com foco em **Java 17, Spring Boot, APIs REST e microsserviços**.
 
-- 🎓 Studying **Software Engeneering**
+🚀 Busco oportunidades como **Desenvolvedora Java Júnior / Desenvolvedora Java I**.
 
-- 🚀 Looking for an **Java Developer opportunity.**
+### 💻 Tecnologias
 
-- 🎮 Gamer and Bellydancer in my spare time
+**Backend**  
+Java 17 • Spring Boot • Spring Security • Spring Data JPA • Hibernate • APIs REST • Microsserviços
 
-<p>Sou Desenvolvedora Back-end com foco em Java e Spring Boot, atuando atualmente na Capgemini no desenvolvimento de soluções corporativas para automação de processos e gestão de casos.</p>
-<p>Tenho experiência com desenvolvimento orientado a objetos, APIs REST, modelagem de dados, bancos relacionais e NoSQL, além de atuar em ambientes ágeis utilizando Scrum e Kanban.</p>
-<p>Paralelamente ao trabalho, aprofundo meus estudos em Java, Spring Boot, microsserviços, testes automatizados e arquitetura de software.</p>
-<p>Minha trajetória profissional inclui mais de 10 anos em funções de gestão e atendimento, experiência que fortaleceu habilidades como comunicação, liderança, organização e resolução de problemas.</p>
-<p>Atualmente busco continuar evoluindo como Desenvolvedora Java Back-end, contribuindo para soluções escaláveis, bem estruturadas e orientadas à qualidade. </p>
+**Banco de Dados**  
+PostgreSQL • MongoDB • SQL
 
-</br>
+**Arquitetura & Segurança**  
+Arquitetura em Camadas • Spring Security • JWT • MapStruct • Swagger/OpenAPI
 
- ### My Contacts:
- 
-<div> 
-  <a href = "mailto:ste.aoc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/5522999016989?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/steph-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+**Ferramentas**  
+Docker • Maven • Gradle • Git • GitHub • GitHub Actions • Postman
+
+### 🚀 Projeto em destaque
+
+#### Sistema de Agendamento e Notificações
+
+Backend baseado em microsserviços desenvolvido para aplicar conceitos de arquitetura, segurança, persistência de dados e integração entre serviços.
+
+**Stack:** Java 17 • Spring Boot • Spring Security • JWT • PostgreSQL • MongoDB • MapStruct • Docker • Swagger/OpenAPI
+
+O sistema é composto por:
+
+- 👤 Microsserviço de usuários e autenticação
+- 📅 Microsserviço de gerenciamento de tarefas
+- 📧 Serviço de notificações por e-mail
+- 🔗 BFF para centralização da comunicação entre os serviços
+
+### 🎓 Formação
+
+**Engenharia de Software — UNICESUMAR**  
+Conclusão prevista: Dezembro/2026
+
+### 📫 Contato
+
+<div>
+  <a href="mailto:ste.aoc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/steph-carvalho"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<br>
-<br>
