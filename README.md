@@ -24,7 +24,7 @@ Docker • Maven • Gradle • Git • GitHub • GitHub Actions • Postman
 
 ### 🚀 Projeto em destaque
 
-#### Sistema de Agendamento e Notificações
+#### [Sistema de Agendamento e Notificações](https://github.com/SteCarvalho87/task-scheduler-microservices)
 
 Backend baseado em microsserviços desenvolvido para aplicar conceitos de arquitetura, segurança, persistência de dados e integração entre serviços.
 
