@@ -6,7 +6,7 @@ Sou desenvolvedora de software na **Capgemini**, com experiência profissional e
 
 Atualmente direciono minha carreira para **desenvolvimento Java Backend**, com foco em **Java 17, Spring Boot, APIs REST e microsserviços**.
 
-🚀 Busco oportunidades como **Desenvolvedora Java Júnior / Desenvolvedora Java I**.
+🚀 Busco oportunidades como **Desenvolvedora Java**.
 
 ### 💻 Tecnologias
 
